@@ -30,9 +30,9 @@ Sometimes you need to run the script for a large number of domains (If you are a
 
 ## Basic usage
 
-Scan `http://www.mywebsite.com/` and output the sitemap to `/home/user/public_html/sitemap.xml`:
+Scan `https://bdmeter.info` and output the sitemap to `/local-directory`:
 
-`php sitemap.php file=/home/user/public_html/sitemap.xml site=http://www.mywebsite.com/`
+`php sitemap.php file=sitemap.xml site=https://bdmeter.info`
 
 ## Advanced usage
 
